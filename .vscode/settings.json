@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "geometria.sln"
+    "dotnet.defaultSolution": "geometri.sln"
 }
